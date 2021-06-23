@@ -1,7 +1,7 @@
 array = [5, 3, 1]
 
 
-temp =0
+temp = 0
 check = false
 j = 0
 
